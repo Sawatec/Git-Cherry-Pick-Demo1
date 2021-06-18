@@ -1,1 +1,1 @@
-console.lo(data);
+console.log(data);
